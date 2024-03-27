@@ -200,7 +200,7 @@ header {
     filter: blur(14px);
 }
 
-.outer {
+.outer:hover {
     animation: rotate 1.5s linear infinite;
 }
 
